@@ -1,1 +1,2 @@
-# CS484_Project
+## Bilkent University CS 484 Image Processing
+Project
